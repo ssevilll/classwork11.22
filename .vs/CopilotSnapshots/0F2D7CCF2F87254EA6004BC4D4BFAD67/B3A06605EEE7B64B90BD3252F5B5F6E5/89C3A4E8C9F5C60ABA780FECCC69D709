@@ -1,0 +1,121 @@
+﻿using Classwork11._22.Task1.Models;
+using System.Collections.Generic;
+
+namespace Classwork11._22.Task1.Services
+{
+    internal class MyList<T>
+    {
+        private T[] items;
+        public int Capacity { get; private set; }
+        public int Count { get; private set; }
+
+        public T this[int index]
+        {
+            get
+            {
+                if (index < 0 || index >= Count) throw new ArgumentOutOfRangeException(nameof(index));
+                return items[index];
+            }
+            set
+            {
+                if (index < 0 || index >= Count) throw new ArgumentOutOfRangeException(nameof(index));
+                items[index] = value;
+            }
+        }
+
+        public MyList(int capacity)
+        {
+            if (capacity < 0) throw new ArgumentOutOfRangeException(nameof(capacity));
+            Capacity = capacity;
+            items = new T[capacity];
+            Count = 0;
+        }
+
+        public void Add(T item)
+        {
+            if (Count < Capacity)
+            {
+                items[Count++] = item;
+            }
+            else
+            {
+                throw new InvalidOperationException("List is full");
+            }
+        }
+
+        public void Clear()
+        {
+            Array.Clear(items, 0, Count);
+            Count = 0;
+            Console.WriteLine("List is clear");
+        }
+
+        public bool Exists(T item)
+        {
+            var comparer = EqualityComparer<T>.Default;
+            for (int i = 0; i < Count; i++)
+            {
+                if (comparer.Equals(items[i], item))
+                    return true;
+            }
+            return false;
+        }
+
+        public void Remove(T item)
+        {
+            var comparer = EqualityComparer<T>.Default;
+            for (int i = 0; i < Count; i++)
+            {
+                if (comparer.Equals(items[i], item))
+                {
+                    for (int j = i; j < Count - 1; j++)
+                        items[j] = items[j + 1];
+
+                    items[Count - 1] = default!;
+                    Count--;
+                    Console.WriteLine("Item is removed");
+                    return;
+                }
+            }
+            Console.WriteLine("Item not found");
+        }
+
+        public void Reverse()
+        {
+            for (int i = 0, j = Count - 1; i < j; i++, j--)
+            {
+                var tmp = items[i];
+                items[i] = items[j];
+                items[j] = tmp;
+            }
+        }
+
+        public void IndexOf(T item)
+        {
+            var comparer = EqualityComparer<T>.Default;
+            for (int i = 0; i < Count; i++)
+            {
+                if (comparer.Equals(items[i], item))
+                {
+                    Console.WriteLine($"Index of item is: {i}");
+                    return;
+                }
+            }
+            Console.WriteLine("Item not found");
+        }
+
+        public void LastIndexOf(T item)
+        {
+            var comparer = EqualityComparer<T>.Default;
+            for (int i = Count - 1; i >= 0; i--)
+            {
+                if (comparer.Equals(items[i], item))
+                {
+                    Console.WriteLine($"Last index of item is: {i}");
+                    return;
+                }
+            }
+            Console.WriteLine("Item not found");
+        }
+    }
+}
