@@ -12,3 +12,18 @@ C:\Users\sevilsb\source\repos\Classwork11.22\Classwork11.22.Task1\obj\Debug\net8
 C:\Users\sevilsb\source\repos\Classwork11.22\Classwork11.22.Task1\obj\Debug\net8.0\Classwork11.22.Task1.pdb
 C:\Users\sevilsb\source\repos\Classwork11.22\Classwork11.22.Task1\obj\Debug\net8.0\Classwork11.22.Task1.genruntimeconfig.cache
 C:\Users\sevilsb\source\repos\Classwork11.22\Classwork11.22.Task1\obj\Debug\net8.0\ref\Classwork11.22.Task1.dll
+D:\razdel c\Desktop\classwork11.22\Classwork11.22.Task1\obj\Debug\net8.0\Classwork11.22.Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\razdel c\Desktop\classwork11.22\Classwork11.22.Task1\obj\Debug\net8.0\Classwork11.22.Task1.AssemblyInfoInputs.cache
+D:\razdel c\Desktop\classwork11.22\Classwork11.22.Task1\obj\Debug\net8.0\Classwork11.22.Task1.AssemblyInfo.cs
+D:\razdel c\Desktop\classwork11.22\Classwork11.22.Task1\obj\Debug\net8.0\Classwork11.22.Task1.csproj.CoreCompileInputs.cache
+D:\razdel c\Desktop\classwork11.22\Classwork11.22.Task1\obj\Debug\net8.0\Classwork11.22.Task1.sourcelink.json
+D:\razdel c\Desktop\classwork11.22\Classwork11.22.Task1\obj\Debug\net8.0\Classwork11.22.Task1.dll
+D:\razdel c\Desktop\classwork11.22\Classwork11.22.Task1\obj\Debug\net8.0\refint\Classwork11.22.Task1.dll
+D:\razdel c\Desktop\classwork11.22\Classwork11.22.Task1\obj\Debug\net8.0\Classwork11.22.Task1.pdb
+D:\razdel c\Desktop\classwork11.22\Classwork11.22.Task1\bin\Debug\net8.0\Classwork11.22.Task1.exe
+D:\razdel c\Desktop\classwork11.22\Classwork11.22.Task1\bin\Debug\net8.0\Classwork11.22.Task1.deps.json
+D:\razdel c\Desktop\classwork11.22\Classwork11.22.Task1\bin\Debug\net8.0\Classwork11.22.Task1.runtimeconfig.json
+D:\razdel c\Desktop\classwork11.22\Classwork11.22.Task1\bin\Debug\net8.0\Classwork11.22.Task1.dll
+D:\razdel c\Desktop\classwork11.22\Classwork11.22.Task1\bin\Debug\net8.0\Classwork11.22.Task1.pdb
+D:\razdel c\Desktop\classwork11.22\Classwork11.22.Task1\obj\Debug\net8.0\Classwork11.22.Task1.genruntimeconfig.cache
+D:\razdel c\Desktop\classwork11.22\Classwork11.22.Task1\obj\Debug\net8.0\ref\Classwork11.22.Task1.dll
