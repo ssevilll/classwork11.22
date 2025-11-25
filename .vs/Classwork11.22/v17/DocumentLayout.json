@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\razdel c\\Desktop\\classwork11.22\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3047B904-95B3-489F-9730-14D56D77289C}|Classwork11.22.Task1\\Classwork11.22.Task1.csproj|d:\\razdel c\\desktop\\classwork11.22\\classwork11.22.task1\\model\\groupmate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3047B904-95B3-489F-9730-14D56D77289C}|Classwork11.22.Task1\\Classwork11.22.Task1.csproj|solutionrelative:classwork11.22.task1\\model\\groupmate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3047B904-95B3-489F-9730-14D56D77289C}|Classwork11.22.Task1\\Classwork11.22.Task1.csproj|d:\\razdel c\\desktop\\classwork11.22\\classwork11.22.task1\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3047B904-95B3-489F-9730-14D56D77289C}|Classwork11.22.Task1\\Classwork11.22.Task1.csproj|solutionrelative:classwork11.22.task1\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,19 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GroupMate.cs",
+              "DocumentMoniker": "D:\\razdel c\\Desktop\\classwork11.22\\Classwork11.22.Task1\\Model\\GroupMate.cs",
+              "RelativeDocumentMoniker": "Classwork11.22.Task1\\Model\\GroupMate.cs",
+              "ToolTip": "D:\\razdel c\\Desktop\\classwork11.22\\Classwork11.22.Task1\\Model\\GroupMate.cs",
+              "RelativeToolTip": "Classwork11.22.Task1\\Model\\GroupMate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T06:00:46.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\razdel c\\Desktop\\classwork11.22\\Classwork11.22.Task1\\Model\\Student.cs",
               "RelativeDocumentMoniker": "Classwork11.22.Task1\\Model\\Student.cs",
               "ToolTip": "D:\\razdel c\\Desktop\\classwork11.22\\Classwork11.22.Task1\\Model\\Student.cs",
               "RelativeToolTip": "Classwork11.22.Task1\\Model\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T18:09:06.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Person.cs",
               "DocumentMoniker": "D:\\razdel c\\Desktop\\classwork11.22\\Classwork11.22.Task1\\Model\\Person.cs",
               "RelativeDocumentMoniker": "Classwork11.22.Task1\\Model\\Person.cs",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "Classwork11.22.Task1\\Model\\Person.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAQwBQAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T17:52:50.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T17:52:50.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MyList.cs",
               "DocumentMoniker": "D:\\razdel c\\Desktop\\classwork11.22\\Classwork11.22.Task1\\Services\\MyList.cs",
               "RelativeDocumentMoniker": "Classwork11.22.Task1\\Services\\MyList.cs",
@@ -68,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\razdel c\\Desktop\\classwork11.22\\Classwork11.22.Task1\\Program.cs",
               "RelativeDocumentMoniker": "Classwork11.22.Task1\\Program.cs",
