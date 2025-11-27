@@ -9,6 +9,7 @@
             Students = new Student[capacity];
         }
         
+        // Indexer to add/get students
         public Student this[int index]
         {
             get
