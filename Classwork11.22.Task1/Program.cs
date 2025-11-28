@@ -6,7 +6,6 @@ namespace Classwork11._22.Task1
     {
         static void Main(string[] args)
         {
-            // Create some Person objects (upcasted Teachers and Students)
             Person[] persons = {
                 new Student("Ali", "Mammadov", 85.5m),
                 new Teacher("Aysel", "Hasanova") { Salary = 2500m },
@@ -16,7 +15,6 @@ namespace Classwork11._22.Task1
                 new Student("Nigar", "Huseynova", 88.7m)
             };
             
-            // Filter students from persons array
             var students = new List<Student>();
             foreach (Person person in persons)
             {
@@ -26,10 +24,8 @@ namespace Classwork11._22.Task1
                 }
             }
             
-            // Create GroupMate object with capacity for filtered students
             var groupMate = new GroupMate(students.Count);
             
-            // Add students to GroupMate using indexer
             Console.WriteLine("Adding students to GroupMate using indexer:");
             for (int i = 0; i < students.Count; i++)
             {
@@ -43,7 +39,6 @@ namespace Classwork11._22.Task1
                 Console.WriteLine($"Index {i}: {groupMate[i].ShowInfo()}");
             }
             
-            // Sort students by points
             Console.WriteLine("\nSorting students by points...");
             GroupMate.Sort(groupMate.Students);
             

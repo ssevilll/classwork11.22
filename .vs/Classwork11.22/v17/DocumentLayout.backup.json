@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\razdel c\\Desktop\\classwork11.22\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3047B904-95B3-489F-9730-14D56D77289C}|Classwork11.22.Task1\\Classwork11.22.Task1.csproj|d:\\razdel c\\desktop\\classwork11.22\\classwork11.22.task1\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3047B904-95B3-489F-9730-14D56D77289C}|Classwork11.22.Task1\\Classwork11.22.Task1.csproj|solutionrelative:classwork11.22.task1\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3047B904-95B3-489F-9730-14D56D77289C}|Classwork11.22.Task1\\Classwork11.22.Task1.csproj|d:\\razdel c\\desktop\\classwork11.22\\classwork11.22.task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3047B904-95B3-489F-9730-14D56D77289C}|Classwork11.22.Task1\\Classwork11.22.Task1.csproj|solutionrelative:classwork11.22.task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3047B904-95B3-489F-9730-14D56D77289C}|Classwork11.22.Task1\\Classwork11.22.Task1.csproj|d:\\razdel c\\desktop\\classwork11.22\\classwork11.22.task1\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3047B904-95B3-489F-9730-14D56D77289C}|Classwork11.22.Task1\\Classwork11.22.Task1.csproj|solutionrelative:classwork11.22.task1\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3047B904-95B3-489F-9730-14D56D77289C}|Classwork11.22.Task1\\Classwork11.22.Task1.csproj|d:\\razdel c\\desktop\\classwork11.22\\classwork11.22.task1\\model\\groupmate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,19 +38,6 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\razdel c\\Desktop\\classwork11.22\\Classwork11.22.Task1\\Program.cs",
-              "RelativeDocumentMoniker": "Classwork11.22.Task1\\Program.cs",
-              "ToolTip": "D:\\razdel c\\Desktop\\classwork11.22\\Classwork11.22.Task1\\Program.cs",
-              "RelativeToolTip": "Classwork11.22.Task1\\Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T09:56:54.485Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\razdel c\\Desktop\\classwork11.22\\Classwork11.22.Task1\\Model\\Student.cs",
@@ -59,8 +46,7 @@
               "RelativeToolTip": "Classwork11.22.Task1\\Model\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T18:09:06.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T18:09:06.812Z"
             },
             {
               "$type": "Document",
@@ -72,20 +58,32 @@
               "RelativeToolTip": "Classwork11.22.Task1\\Model\\GroupMate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T06:00:46.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T06:00:46.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Person.cs",
               "DocumentMoniker": "D:\\razdel c\\Desktop\\classwork11.22\\Classwork11.22.Task1\\Model\\Person.cs",
               "RelativeDocumentMoniker": "Classwork11.22.Task1\\Model\\Person.cs",
               "ToolTip": "D:\\razdel c\\Desktop\\classwork11.22\\Classwork11.22.Task1\\Model\\Person.cs",
               "RelativeToolTip": "Classwork11.22.Task1\\Model\\Person.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBQAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T17:52:50.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\razdel c\\Desktop\\classwork11.22\\Classwork11.22.Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Classwork11.22.Task1\\Program.cs",
+              "ToolTip": "D:\\razdel c\\Desktop\\classwork11.22\\Classwork11.22.Task1\\Program.cs*",
+              "RelativeToolTip": "Classwork11.22.Task1\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T09:56:54.485Z",
               "EditorCaption": ""
             },
             {
@@ -98,8 +96,7 @@
               "RelativeToolTip": "Classwork11.22.Task1\\Model\\Teacher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T16:05:39.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-26T16:05:39.106Z"
             },
             {
               "$type": "Document",
